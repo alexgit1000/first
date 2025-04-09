@@ -1,0 +1,81 @@
+
+* {
+    margin: 5px;
+    padding: 0px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+
+.blocks .block {
+    width: 25%;
+    background: #000000;
+    height: 50px;
+    float: left;
+    border: 4px solid blue;
+    box-sizing: border-box;
+}
+
+.blocks {
+    width: 100%;
+}
+.box {
+    background: darkorchid;
+    color: white;
+    /* padding: 15px; */
+    /* padding: 15px 40px; */
+    /* padding: 15px 40px 30px 25px; */
+    /* padding-top: 15px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    padding-left: 25px; */
+    padding: 15px;
+    border: 4px solid red;
+    margin: 10px;
+}
+
+/*  Tag Name */
+h3 {
+    color: blueviolet;
+}
+body {
+    background: #ddd;
+    margin: 0;
+}
+
+/* Class */
+.card {
+    /* padding: 10px; */
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 5px;
+    margin-left: 1px;
+}   
+.card p {
+    font-size: 14px;
+}
+
+
+
+.html {
+    background: #de4c20;
+    color: white;
+}
+
+.css {
+    background: #2247e2;
+    color: white;
+}
+
+/* ID */
+#header {
+    background: #ddd;
+    padding: 10px;
+}
+
+#header, .html. .css {
+    margin-bottom: 10px;
+}
